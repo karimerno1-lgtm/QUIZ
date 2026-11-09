@@ -1,0 +1,6 @@
+{
+  "name": "Quizora",
+  "description": "Discover yourself and challenge your mind with 21+ interactive personality, knowledge, and trivia quizzes. Share results, challenge friends, and explore trending topics on Quizora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+# Quizora
+> Discover. Challenge. Share.
+
+Website: https://quiz.wdbloog.com
+
+Quizora is a free, modern international quiz platform offering 21 original quizzes across seven key categories:
+1. Personality (What Is Your True Personality Type?, Discover Your Hidden Strengths, Which Personality Archetype Are You?)
+2. Love & Relationships (How Well Do You Know Your Partner?, What Is Your Love Language?, How Compatible Are You and Your Partner?)
+3. General Knowledge (General Knowledge Challenge, World Geography Quiz, History Knowledge Test)
+4. Brain & Intelligence (Test Your Logical Thinking, Tricky Riddles Challenge, Brain Training Challenge)
+5. Entertainment (Which Movie Character Matches Your Personality?, Guess the Movie from Emojis, How Well Do You Know Popular Movies?)
+6. Sports (Football Knowledge Challenge, Guess the Famous Football Player, Football Legends Trivia)
+7. Friends & Social (How Well Do Your Friends Know You?, Introvert or Extrovert?, What Kind of Friend Are You?)
+
+Key Features:
+- 100% Client-side execution without external AI or database dependencies.
+- HTML Canvas dynamic social share card generation (1080x1080 square and 1080x1920 Instagram Story format).
+- Head-to-head friend challenge link mechanism with score comparison.
+- Verified knowledge scoring and multi-trait personality archetype classification.
+- AdSense monetization integration (Publisher ca-pub-3618365568004987).
